@@ -8,6 +8,7 @@
  * @license GNU GPLv3+
  * @author Dummy Luck Kiev
  *
+ * https://github.com/dummyluck/login_view
  * http://dummyluck.com/page/roundcube_plugin_login_view
  * rndcb@dummyluck.com
  */
