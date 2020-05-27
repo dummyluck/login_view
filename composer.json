@@ -2,7 +2,7 @@
   "name":"dummyluck/login_view",
   "type": "roundcube-plugin",
   "description":"Add a login name to the main interface",
-  "keywords": ["login","view","interface"],
+  "keywords": ["roundcube","login","view","interface"],
   "license":"GPL-3.0+",
   "homepage":"https://github.com/dummyluck/login_view",
   "authors": [
